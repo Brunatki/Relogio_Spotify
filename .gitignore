@@ -1,18 +1,1 @@
-echo ".env" >> .gitignore
-git add .gitignore
-git commit -m "Adicionando .env no .gitignore"
-git push
 
-# Ignorar o diretório .cache, caso ele seja gerado e não precise ser versionado
-.cache/
-
-# Ignorar arquivos temporários
-*.log
-*.tmp
-
-# Ignorar arquivos gerados do build
-build/
-dist/
-
-# Ignorar arquivos específicos do sistema
-*.DS_Store
