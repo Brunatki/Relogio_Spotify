@@ -1,0 +1,3 @@
+CLIENT_ID=seu-client-id-aqui
+CLIENT_SECRET=sua-senha-secreta-aqui
+REDIRECT_URI=sua-url-de-callback-aqui
